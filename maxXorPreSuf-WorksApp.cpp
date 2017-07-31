@@ -71,3 +71,4 @@ int main(){
 	Trie trie(n);
 	cout<<trie.solve();
 }
+//hello from maxXorPreSuf-WorksApp

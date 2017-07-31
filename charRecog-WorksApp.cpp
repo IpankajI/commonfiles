@@ -55,4 +55,4 @@ int main(){
 	printf("%d",ans);
 }
 
-//sssssssssssss
+//deleted
